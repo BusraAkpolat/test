@@ -1,0 +1,39 @@
+/* layout */
+
+/* class için ->. text-red {} */
+/* id -> #id-bilgisi {} */
+
+h1,
+h2 {
+  color: #202020;
+}
+
+/* bütün h1'ler 30px olsunn */
+h1 {
+  font-size: 30px;
+}
+
+/* bütün paragraflar 20px olsun */
+p {
+  font-size: 20px;
+}
+
+#first-article {
+  font-size: 40px;
+}
+
+.text-red {
+  color: red;
+}
+
+.fs-small {
+  font-size: 14px;
+}
+
+.fs-medium {
+  font-size: 20px;
+}
+
+.fs-large {
+  font-size: 30px;
+}
